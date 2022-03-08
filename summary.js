@@ -16,7 +16,7 @@ ES6
 2.2 use filter remove an element form an array. 
 3. Arrow function : no parameter, single parameter, multiple parameter,multiline arrow function. 
 4. destructuring : object destructuring and array destructuring .
-5. object shorthand
+5. object declaration shorthand
 6. function : parameter default value .
 7. optional chaining (?.)
 --------------------------------------
@@ -31,7 +31,7 @@ Others
 2. ternary operator 
 3. logical && and logical || 
 4. json: stringify , parse
-
+5. +,
 
 */
 
