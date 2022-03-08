@@ -51,5 +51,5 @@ isActive && showUser()
 // use || if the left side is false then right side will be executed
 isActive || hideUser()
 
-// toggle
+// toggle boolean
 isActive = !isActive
